@@ -1,0 +1,9 @@
+Building Trillion
+
+See doc/readme-qt.rst for instructions on building Trillion-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Trillion.
+
+See doc/build-*.txt for instructions on building trilliond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Trillion.

@@ -1,0 +1,34 @@
+src/*.exe
+src/trillion
+src/trilliond
+src/test_trillion
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.trillion
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+trillion-qt
+Trillion-Qt.app
+
+# Unit-tests
+Makefile.test
+trillion-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
