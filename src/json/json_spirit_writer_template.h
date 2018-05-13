@@ -127,7 +127,7 @@ namespace json_spirit
                 case int_type:   output_int( value );         break;
 
                 /// Bitcoin: Added std::fixed and changed precision from 16 to 8
-                case real_type:  os_ << std::showpoint << std::fixed << std::setprecision(8)
+                case real_type:  os_ << std::showpoint << std::fixed << std::setprecision(5)
                                      << value.get_real();     break;
 
                 case null_type:  os_ << "null";               break;
