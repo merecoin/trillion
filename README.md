@@ -12,7 +12,7 @@ Moreover, we made a premine of the coins to give each person 1,000,000 coins!!! 
 
 Our goal: a million millionaires. In the United States there are a million millionaires. Therefore, the US is such a rich and great country. And when we give a million people a million coins to each - Trillion will be as great a coin as the US Dollar.
 
-Trillion is a Bitcoin clone. Same simple and reliable. Trillion can be mined on your work or home computer, directly in the wallet-program.
+Trillion is a Bitcoin clone. Same simple and reliable. Trillion can be mined on your work or home computer, directly in the wallet-program ( https://github.com/merecoin/trillion/releases ).
 
 - Maximum number of coins: 13,000,000,000,000 TRLN
 - Block reward: 4,000,000 TRLN
