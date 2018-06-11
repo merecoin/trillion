@@ -1,3 +1,11 @@
+Attention!!! After we learned about the discovery of scientists hat there are 2 different biological species of people - we decided that now we will give out Trillion coins to individuals of our species. And here are the distinctive features of our biological species:
+
+- We are intelligent (IQ over 120)
+- We empathize with other living beings
+- We strive for universal harmony and order based on reasonableness
+
+If this is about you - welcome to the project! Get your free Trillion coins in our Airdrop! ( https://bitcointalk.org/index.php?topic=3747251 )
+
 Trillion
 ========
 
