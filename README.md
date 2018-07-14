@@ -16,4 +16,7 @@ At first:
 
 Our main goal is: 
 1TRLN = $1
-Anyone who mine Trillion-coins - will become dollar millionaires.
+*Anyone who mine Trillion-coins - will become dollar millionaires*
+
+BTT: https://bitcointalk.org/index.php?topic=3741149
+mail: merecoin@gmail.com
